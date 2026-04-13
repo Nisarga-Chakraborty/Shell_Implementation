@@ -85,8 +85,8 @@ This project is a fully functional command-line shell written in Java that mimic
 ### Clone and Build
 
 ```bash
-git clone https://github.com/Nisarga-Chakraborty/java-shell.git
-cd java-shell
+git clone https://github.com/Nisarga-Chakraborty/Shell_Implementation.git
+ls
 
 # Download JLine library
 wget https://repo1.maven.org/maven2/org/jline/jline/3.29.0/jline-3.29.0.jar
